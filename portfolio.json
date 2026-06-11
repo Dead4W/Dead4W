@@ -1,0 +1,48 @@
+{
+	"full_name": "Ilya Zedgenizov",
+	"contacts": {
+		"phone": "+37498330529",
+		"email": "dead4w@gmail.com"
+	},
+	"special": "PHP Backend",
+	"career_history": [
+		{
+			"company": {
+				"name": "EXAMPLE",
+				"started_at": "2024-09",
+				"end_at": null,
+				"duration_months": "22",
+			},
+			"description": "",
+		},
+		{
+			"company": {
+				"name": "MY.GAMES",
+				"started_at": "2024-09",
+				"end_at": null,
+				"duration_months": "22",
+			},
+			"description": "Worked on a custom high-load legacy system with a 15+ year-old codebase: Maintained and enhanced existing functionality Investigated and fixed bugs and production issues Developed and supported payment processing features Developed and maintained internal administrative tools and dashboards",
+		},
+		{
+			"company": {
+				"name": "Saber Interactive",
+				"started_at": "2022-12",
+				"end_at": "2024-03",
+				"duration_months": "16",
+			},
+			"description": "Worked in an environment without formal sprint processes. Most projects were internal company products and covered by NDA. Tech Stack: PHP, Laravel, Vue.js, Python, Rust, Bitbucket Key Responsibilities and Achievements: Developed and maintained a wide range of backend services, primarily using PHP and Laravel. Worked on an internal CDN solution based on the BitTorrent protocol with P2P data distribution capabilities. Developed a Python service based on open-source technologies with additional data protection mechanisms. Participated in the architectural redesign of an Access Control System (ACS), responsible for the storage, synchronization, and management of security keys and biometric fingerprint data across multiple offices and production studios. Developed a lightweight HTTP server in Rust using raw TCP sockets for streaming large directory archives in TAR format. Peak memory consumption remained below 3 MB during file transfers. Designed architecture for AI integrations, including ChatGPT-based solutions. Utilized LlamaIndex for document processing, classification tasks, and internal workflow optimization. Developed a secure PHP backend for a desktop application, implementing RSA-based encrypted data exchange. Contributed to the development and maintenance of an internal analytics platform focused on system load monitoring and performance analysis.",
+		},
+		{
+			"company": {
+				"name": "Napopravku",
+				"started_at": "2020-01",
+				"end_at": "2022-12",
+				"duration_months": "36",
+			},
+			"description": "Worked in an Agile environment with sprint-based development. Tech Stack: PHP 8, Laravel, PostgreSQL, MySQL, Redis, Vue.js, Docker, GitLab, GitHub, Jira, Confluence Backend Engineer (Integration Platform) Worked on a large legacy integration platform, primarily focused on backend development with Laravel. Key Responsibilities and Achievements: Designed and implemented a centralized logging and performance analytics architecture for monitoring application load, cache efficiency, and external integrations. Built a high-throughput analytics pipeline processing over 20,000 log events and external API requests per minute. Improved infrastructure reliability through VPN network refactoring and related operational enhancements. Mentored two junior developers for six months, including code reviews, task estimation, workload distribution, onboarding, and architecture guidance. Developed high-performance concurrent processing solutions using PCNTL daemon workers and queue-based architectures, handling more than 20,000 requests per minute to external APIs with subsequent caching, aggregation, and data normalization. Integrated with a wide range of external systems using SOAP, REST, FTP, binary protocols, and custom enterprise APIs. Participated in incident response, troubleshooting, and rapid production issue resolution. Implemented architectural changes to business-critical processes while maintaining audit logs, minimizing deployment risks, and ensuring backward compatibility. Optimized application performance and memory consumption through algorithmic improvements and design patterns, including Flyweight, generators, recursion elimination, and efficient array processing techniques. Full-Stack Engineer (Core Business Systems) Worked within a cross-functional team responsible for rapidly delivering business-critical products and features. Key Responsibilities and Achievements: Redesigned and evolved payment service architecture to improve maintainability, scalability, and integration flexibility. Implemented and maintained payment gateway integrations, including Stripe and YooKassa. Developed digital-signature-based protection mechanisms for mobile applications to mitigate SMS abuse and fraudulent requests. Refactored and optimized Docker images, development environments, and deployment workflows, reducing build times and improving developer productivity. Improved Redis caching strategies and application performance across multiple services. Contributed to both backend and frontend development, delivering end-to-end features under tight delivery timelines.",
+		},
+	],
+	"description": "You can evaluate my coding style and engineering approach through this showcase project: https://github.com/Dead4W/laravel_showcase/tree/master I have strong expertise in performance optimization and algorithmic improvements. For example, I can systematically transform recursive algorithms into iterative implementations, often achieving up to 2x improvements in both memory consumption and execution speed (examples are available in my GitHub repositories). I am the author of a low-level AES-256 implementation in JavaScript (AesCrypt) and contributed to the Python implementation of the same project: https://www.aescrypt.com/download/ Information Security is one of my long-term interests. I participated twice in cybersecurity Capture The Flag (CTF) competitions organized by ITMO University in Saint Petersburg. I am comfortable reading and understanding codebases written in Rust, Python, Java, C, C++, C#, JavaScript, and PHP, which allows me to quickly navigate unfamiliar systems and technologies. In my spare time, I enjoy studying PHP internals and source code, experimenting with Rust, and developing algorithms focused on performance optimization and efficient resource utilization.",
+	"ai_sumamry": "Ilya Zedgenizov is a senior-level backend engineer with deep expertise in PHP, distributed systems, high-load architectures, performance optimization, and legacy system modernization. He combines strong software engineering fundamentals with practical experience across fintech, analytics, security, infrastructure, and AI-related projects. What distinguishes Ilya from many backend engineers is his ability to work effectively at multiple abstraction levels—from business-critical product development to low-level systems programming, protocol design, cryptography, and performance engineering. He consistently demonstrates ownership of complex technical challenges and a strong focus on reliability, scalability, and maintainability."
+}
